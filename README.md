@@ -14,11 +14,12 @@ Here are some ideas to get you started:
 -->
 # About me: 
 
+Currently studying at Mission Ready to become a fullstack web developer.
+
 - Vim/Neovim enjoyer
 - Love absolutely everything about programming
 - A dream of becoming an indie game developer
 
-Currently studying at Mission Ready to become a fullstack web developer.
 
 Ever since highschool I've been super passionate about programming and game development and I aspire to constantly improve and adapt to become a better developer.
 
@@ -26,8 +27,8 @@ Ever since highschool I've been super passionate about programming and game deve
 
 
 ### What I can do:
-- React & Node.js with javascript
-- Database: MySQL, MongoDB
+- React & Node.js
+- MySQL, MongoDB
 - Basic game development with Unity & C#
 
 ### Currently Learning:
