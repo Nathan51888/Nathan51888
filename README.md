@@ -27,12 +27,11 @@ Ever since highschool I've been super passionate about programming and game deve
 
 
 ### What I can do:
-- React & Node.js
-- MySQL, MongoDB
-- Basic game development with Unity & C#
+- React Next.js, Node.js(express)
+- MySQL, PostgreSql, Prisma, MongoDB
+- Game development with Unity & C#
 
 ### Currently Learning:
 - Go & htmx
 - Tailwind
-- Intro to DSA(algorithm & data structures)
 - Bevy game engine with rust
